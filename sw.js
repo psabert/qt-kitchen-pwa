@@ -1,4 +1,4 @@
-const CACHE_NAME = 'hotel-kitchen-cache-v1';
+const CACHE_NAME = 'quertour-kitchen-cache-v1';
 const urlsToCache = [
     './',
     './index.html',

@@ -1,6 +1,6 @@
 {
-    "name": "Hotelküche Koordination",
-    "short_name": "Hotelküche",
+    "name": "Quertour Küche Koordination",
+    "short_name": "Quertourküche",
     "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffffff",
